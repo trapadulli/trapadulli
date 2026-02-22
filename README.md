@@ -1,4 +1,4 @@
-# Founded by Stephan Vanwoezik
+# Projects
 
 ### [Musilinda](https://github.com/Musilinda)
 Solfège-based music education platform — interactive web app with real-time AI pitch recognition, iOS native shell, and a PyTorch/Whisper ML pipeline for solfège syllable classification.
