@@ -1,3 +1,7 @@
+# Stephan Vanwoezik
+
+Software engineer focused on AI, audio machine learning, and music technology.
+
 # Projects
 
 ### [Musilinda](https://github.com/Musilinda)
