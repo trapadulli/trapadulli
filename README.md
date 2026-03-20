@@ -9,7 +9,7 @@ iOS Solfège-based music education platform — interactive app with real-time A
 `React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
 ### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
-Infrastructure as code event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
+Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
 ### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
@@ -21,5 +21,5 @@ Quantitative algorithmic trading platform — equity data ingest pipeline and ba
 `Node.js · Azure · MongoDB · Alpaca API`
 
 ### [StoryLint](https://github.com/StoryLint)
-Chrome extension that converts messy product stories into deterministic **Given / When / Then** acceptance criteria.
-`Chrome Extension · Python · FastAPI · Docker`
+Chrome extension that converts confusing product stories into meaningful acceptance criteria.
+`LLM integrations · Python · FastAPI · Docker`
