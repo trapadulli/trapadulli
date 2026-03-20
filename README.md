@@ -1,6 +1,6 @@
 # Stephan Vanwoezik
 
-Software engineer focused on AI, audio machine learning, and music technology.
+Software engineer building systems across music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
 
 # Projects
 
