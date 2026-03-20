@@ -10,7 +10,7 @@ Solfège-based music education platform — interactive web app with real-time A
 
 ### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
 Event-driven ingestion and control-plane system that pulls external API data, normalizes it, and exposes it through a read API layer, with infrastructure defined as code.
-`Event Streaming · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
+`Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
 ### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
 Boilerplate Capacitor native shell for wrapping any remote web application inside a WebView for iOS (and optionally Android). 
