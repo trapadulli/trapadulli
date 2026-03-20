@@ -21,5 +21,5 @@ Quantitative algorithmic trading platform — equity data ingest pipeline and ba
 `Node.js · Azure · MongoDB · Alpaca API`
 
 ### [StoryLint](https://github.com/StoryLint)
-Chrome extension that converts confusing product stories into meaningful acceptance criteria.
-`LLM integrations · Python · FastAPI · Docker`
+Convert confusing product stories into meaningful acceptance criteria.
+`LLM integrations · Javascript · Python · FastAPI · Docker`
