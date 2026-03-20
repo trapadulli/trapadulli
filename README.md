@@ -9,7 +9,7 @@ Solfège-based music education platform — interactive web app with real-time A
 `React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
 ### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
-Event-driven ingestion and control-plane system that pulls external API data, normalizes it, and exposes it through a read API layer, with infrastructure defined as code.
+Event-driven ingestion and control-plane system that pulls external API data, normalizes it, and exposes it through a read API layer—infrastructure as code.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
 ### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
