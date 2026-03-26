@@ -1,5 +1,3 @@
-####  Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
-
 <table>
 <tr>
 <td width="160" align="center">
@@ -10,7 +8,6 @@
 <td>
 
 # Stephan Vanwoezik
-**Stephan van Woezik**
 
 - 🧠 Tech patent holder  
 - 🎓 B.S. Computer Science (cum laude)  
@@ -25,6 +22,7 @@
 </td>
 </tr>
 </table>
+####  Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
 ---
 
