@@ -67,25 +67,17 @@ Python • PyTorch • ONNX • Audio Processing
 iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.
 `React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
----
-
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openstreetmap.svg" width="18"/> [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
 Infrastructure as code - event-driven ingestion and control-plane that pulls external data, normalizes, and exposes it through an API layer.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
-
----
 
 ### 🔋 [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
 Shell for wrapping a web application inside a WebView for iOS (and optionally Android).  
 `Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
 
----
-
 ### 📈  [SimTrade](https://github.com/SimTrade)
 Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.  
 `Node.js · Azure · MongoDB · Alpaca API`
-
----
 
 ### 📖 [StoryLint](https://github.com/StoryLint)
 A Chrome extension that converts confusing product stories into meaningful acceptance criteria.  
