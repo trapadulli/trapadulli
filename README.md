@@ -36,10 +36,6 @@ My work spans backend services, APIs, data modeling, and frontend systems, with 
 
 My passions are in music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
 
-- Tech patent holder  
-- B.S. Computer Science (cum laude), minor in Business  
-- 11+ years building and shipping production systems  
-
 ---
 
 ## 🧠 Focus Areas
