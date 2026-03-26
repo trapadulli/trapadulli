@@ -1,5 +1,5 @@
 # Stephan Vanwoezik
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
 
