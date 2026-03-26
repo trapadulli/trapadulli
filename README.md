@@ -58,7 +58,7 @@ Infrastructure as code - event-driven ingestion and control-plane that pulls ext
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/batteries.svg" width="18"/> [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
+### 🔋 [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
 Shell for wrapping a web application inside a WebView for iOS (and optionally Android).  
 `Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
 
