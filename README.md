@@ -18,12 +18,10 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
-
+<p><h4>Software Engineer | Cloud Systems | Clean Architectures </h4></p>
 </td>
 </tr>
-</table
-
-#### Software Engineer | Cloud Systems | Clean Architectures    
+</table>  
 
 ---
 
