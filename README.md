@@ -6,23 +6,23 @@
 
 ## 🚀 About Me
 
-I’m a software engineer with 11+ years of experience building systems across financial platforms, cloud infrastructure, and full-stack applications. 
+I build full-stack applications in cloud infrastructures. 
 
 My work spans backend services, APIs, data modeling, and frontend systems, with deep experience in .NET, Azure, and SQL Server. I’ve built and operated platforms across financial systems, analytics and forecasting, ERP software, and construction estimating systems for trades.
 
-My passions span across music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
+My passions are in music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
 
 - Tech patent holder  
 - B.S. Computer Science (cum laude), minor in Business  
-- 10+ years building and shipping production systems  
+- 11+ years building and shipping production systems  
 
 ---
 
 ## 🧠 Focus Areas
 
 - Distributed systems & backend architecture  
-- Financial modeling & trading systems  
-- Cloud-native applications (Azure)  
+- Cloud-native applications (Azure)
+- Financial modeling & trading systems   
 - Audio + AI (pitch detection, solfège, inference systems)  
 - Full-stack product development  
 
