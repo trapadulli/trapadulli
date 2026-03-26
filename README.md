@@ -46,7 +46,7 @@ Python • PyTorch • ONNX • Audio Processing
 
 ## 🌟 Projects
 
-### <img src="[https://raw.githubusercontent.com/Musilinda/main/assets/icon.png](https://avatars.githubusercontent.com/u/230736219?s=96&v=4)" width="20"/> [Musilinda](https://github.com/Musilinda)
+### <img src="https://raw.githubusercontent.com/Musilinda/main/assets/icon.png" width="20"/> [Musilinda](https://github.com/Musilinda)
 iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.
 `React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
