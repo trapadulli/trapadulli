@@ -2,7 +2,7 @@
 #### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 <table>
 <tr>
-<td width="160" align="center">
+<td width="100" align="center">
 
 <img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="100"/>
 
