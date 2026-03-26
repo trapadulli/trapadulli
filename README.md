@@ -1,4 +1,6 @@
 # Stephan Vanwoezik
+####  Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
+
 <table>
 <tr>
 <td width="160" align="center">
@@ -30,18 +32,8 @@
 <img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="140"/>
 
 </td>
-<td>
-
-**Stephan van Woezik**
-
-- 🧠 Tech patent holder  
-- 🎓 B.S. Computer Science (cum laude)  
-- ⚙️ 11+ years building production systems  
-
-</td>
 </tr>
 </table>
-####  Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
 ---
 
