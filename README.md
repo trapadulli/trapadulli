@@ -46,17 +46,25 @@ Python • PyTorch • ONNX • Audio Processing
 
 ## 🌟 Projects
 
-### 📈 Quantitative Trading & Backtesting Platform
-Built a simulation and backtesting engine for developing and evaluating financial models. Focused on performance, reliability, and real-world execution constraints.
+### [Musilinda](https://github.com/Musilinda)
+iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.
+`React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
-### 🎵 Musilinda (Music Theory + AI)
-Developing an app that teaches music through chromatic solfège, interval recognition, and tonal gravity—powered by audio analysis and ML inference.
+### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
+Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
+`Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
-### 🤖 Solfège Recognition System
-End-to-end system for detecting sung syllables using Whisper-based models, ONNX inference, and custom audio preprocessing pipelines.
+### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
+Shell for wrapping a web application inside a WebView for iOS (and optionally Android). 
+`Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
 
-### ⚖️ LiabiliBot (Satirical AI Agent)
-Experimental AI agent that identifies potential liability scenarios using location and contextual data—built for Gen Z distribution and automation.
+### [SimTrade](https://github.com/SimTrade)
+Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.
+`Node.js · Azure · MongoDB · Alpaca API`
+
+### [StoryLint](https://github.com/StoryLint)
+A Chrome extension that converts confusing product stories into meaningful acceptance criteria.
+`LLM integrations · Javascript · Python · FastAPI · Docker`
 
 ---
 
@@ -100,24 +108,3 @@ Experimental AI agent that identifies potential liability scenarios using locati
 
 Software engineer building systems across music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
 
-# Projects
-
-### [Musilinda](https://github.com/Musilinda)
-iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.
-`React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
-
-### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
-Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
-`Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
-
-### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
-Shell for wrapping a web application inside a WebView for iOS (and optionally Android). 
-`Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
-
-### [SimTrade](https://github.com/SimTrade)
-Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.
-`Node.js · Azure · MongoDB · Alpaca API`
-
-### [StoryLint](https://github.com/StoryLint)
-A Chrome extension that converts confusing product stories into meaningful acceptance criteria.
-`LLM integrations · Javascript · Python · FastAPI · Docker`
