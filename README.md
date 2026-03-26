@@ -21,7 +21,7 @@
 </td>
 </tr>
 </table
-<h4>Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures</h4>  
+Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures    
 ---
 
 ## 🚀 About Me
