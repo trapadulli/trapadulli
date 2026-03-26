@@ -1,6 +1,6 @@
 # Stephan van Woezik
 
-###Software Engineer | .NET | Cloud Systems | Quantitative Platforms | Music Tech
+### Software Engineer | .NET | Cloud Systems | Quantitative Platforms | Music Tech
 
 ---
 
