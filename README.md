@@ -10,7 +10,7 @@
 <td>
 
 - 🧠 Tech patent holder  
-- 🎓 B.S. Computer Science (cum laude)  
+- 🎓 NSU BSCS (cum laude)  
 - 🧩 11+ years building production systems
 
 <p>
