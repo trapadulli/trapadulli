@@ -12,6 +12,30 @@
 
 - 🧠 Tech patent holder  
 - 🎓 B.S. Computer Science (cum laude)  
+- ⚙️ 11+ years building production systems
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="160" align="center">
+
+<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="140"/>
+
+</td>
+<td>
+
+**Stephan van Woezik**
+
+- 🧠 Tech patent holder  
+- 🎓 B.S. Computer Science (cum laude)  
 - ⚙️ 11+ years building production systems  
 
 </td>
