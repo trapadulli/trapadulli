@@ -4,7 +4,7 @@
 <tr>
 <td width="100" align="center">
 
-<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="100"/>
+<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="140"/>
 
 </td>
 <td>
