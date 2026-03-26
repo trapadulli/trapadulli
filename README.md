@@ -22,7 +22,7 @@
 </tr>
 </table
 
-Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures    
+#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures    
 
 ---
 
