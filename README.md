@@ -1,6 +1,6 @@
 # Stephan van Woezik
 
-#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures | Quantitative Platforms | Music Tech
+#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
 ---
 
