@@ -1,4 +1,4 @@
-# Stephan van Woezik
+# Stephan Vanwoezik
 
 #### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
@@ -46,23 +46,23 @@ Python • PyTorch • ONNX • Audio Processing
 
 ## 🌟 Projects
 
-### <img src="https://avatars.githubusercontent.com/u/230736219?s=96&v=4" width="20"/> [Musilinda](https://github.com/Musilinda)
+### <img src="https://avatars.githubusercontent.com/u/230736219?s=96&v=4" width="30"/> [Musilinda](https://github.com/Musilinda)
 iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.
 `React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
 
-### [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
+### <img src="https://github.com/trapadulli/MapStreamKit/blob/main/media/social_image.png" width="30"/> [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
 Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
-### [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
+### <img src="https://avatars.githubusercontent.com/u/230736219?s=96&v=4" width="20"/> [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
 Shell for wrapping a web application inside a WebView for iOS (and optionally Android). 
 `Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
 
-### [SimTrade](https://github.com/SimTrade)
+### <img src="https://avatars.githubusercontent.com/u/230736219?s=96&v=4" width="20"/> [SimTrade](https://github.com/SimTrade)
 Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.
 `Node.js · Azure · MongoDB · Alpaca API`
 
-### [StoryLint](https://github.com/StoryLint)
+### <img src="https://avatars.githubusercontent.com/u/230736219?s=96&v=4" width="20"/> [StoryLint](https://github.com/StoryLint)
 A Chrome extension that converts confusing product stories into meaningful acceptance criteria.
 `LLM integrations · Javascript · Python · FastAPI · Docker`
 
