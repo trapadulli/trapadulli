@@ -53,7 +53,7 @@ iOS Solfège-based music education platform — interactive app with real-time A
 ---
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openstreetmap.svg" width="18"/> [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
-Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through an API layer.
+Infrastructure as code - event-driven ingestion and control-plane that pulls external data, normalizes, and exposes it through an API layer.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
 ---
