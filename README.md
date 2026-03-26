@@ -52,14 +52,8 @@ iOS Solfège-based music education platform — interactive app with real-time A
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/musicbrainz.svg" width="18"/> [Musilinda](https://github.com/Musilinda)
-iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.  
-`React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
-
----
-
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openstreetmap.svg" width="18"/> [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
-Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.  
+Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.
 `Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
 
 ---
