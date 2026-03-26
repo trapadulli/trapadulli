@@ -1,9 +1,10 @@
 # Stephan Vanwoezik
+#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 <table>
 <tr>
 <td width="160" align="center">
 
-<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="140"/>
+<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="100"/>
 
 </td>
 <td>
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-**Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures**
+
 </td>
 </tr>
 </table>
