@@ -1,5 +1,4 @@
 # Stephan Vanwoezik
-#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 <table>
 <tr>
 <td width="140" align="center">
@@ -21,8 +20,8 @@
 
 </td>
 </tr>
-</table>
-
+</table
+<h4>Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures</h4>
 ---
 
 ## 🚀 About Me
