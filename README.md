@@ -21,7 +21,7 @@
 </td>
 </tr>
 </table
-Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures    
+
 ---
 
 ## 🚀 About Me
