@@ -66,6 +66,34 @@ Quantitative algorithmic trading platform — equity data ingest pipeline and ba
 A Chrome extension that converts confusing product stories into meaningful acceptance criteria.
 `LLM integrations · Javascript · Python · FastAPI · Docker`
 
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/musicbrainz.svg" width="18"/> [Musilinda](https://github.com/Musilinda)
+iOS Solfège-based music education platform — interactive app with real-time AI pitch recognition and a PyTorch/Whisper ML pipeline for syllable classification.  
+`React · TypeScript · Node.js · PostgreSQL · ONNX · Capacitor`
+
+---
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openstreetmap.svg" width="18"/> [MapStreamKit](https://github.com/trapadulli/MapStreamKit)
+Infrastructure as code - event-driven ingestion and control-plane that pulls external API data, normalizes, and exposes it through a read API layer.  
+`Event Hub · Serverless Functions · NoSQL · Object Storage · GraphQL (DAB) · Infrastructure as Code`
+
+---
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/batteries.svg" width="18"/> [Capacitor AddRev Kit](https://github.com/trapadulli/Capacitor-AddRev-Kit)
+Shell for wrapping a web application inside a WebView for iOS (and optionally Android).  
+`Capacitor · TypeScript · iOS (Swift) · WebView · AdMob · RevenueCat`
+
+---
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chartdotjs.svg" width="18"/> [SimTrade](https://github.com/SimTrade)
+Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.  
+`Node.js · Azure · MongoDB · Alpaca API`
+
+---
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bookstack.svg" width="18"/> [StoryLint](https://github.com/StoryLint)
+A Chrome extension that converts confusing product stories into meaningful acceptance criteria.  
+`LLM integrations · JavaScript · Python · FastAPI · Docker`
+
 ---
 
 ## 📫 Connect
