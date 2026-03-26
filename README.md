@@ -64,13 +64,13 @@ Shell for wrapping a web application inside a WebView for iOS (and optionally An
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chartdotjs.svg" width="18"/> [SimTrade](https://github.com/SimTrade)
+### 📈  [SimTrade](https://github.com/SimTrade)
 Quantitative algorithmic trading platform — equity data ingest pipeline and backtester/live-trader running against brokerage APIs.  
 `Node.js · Azure · MongoDB · Alpaca API`
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bookstack.svg" width="18"/> [StoryLint](https://github.com/StoryLint)
+### 📖 [StoryLint](https://github.com/StoryLint)
 A Chrome extension that converts confusing product stories into meaningful acceptance criteria.  
 `LLM integrations · JavaScript · Python · FastAPI · Docker`
 
