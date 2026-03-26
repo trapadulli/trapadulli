@@ -1,6 +1,6 @@
 # Stephan Vanwoezik
 
-#### Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
+#### <img src="https://raw.githubusercontent.com/trapadulli/trapadulli/main/GitHubAvatar.png" width="40"/> Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
 ---
 
