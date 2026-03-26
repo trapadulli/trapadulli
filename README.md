@@ -1,4 +1,3 @@
-# Stephan Vanwoezik
 ####  Software Engineer | .NET | Azure | Cloud Systems | Clean Architectures
 
 <table>
@@ -10,6 +9,7 @@
 </td>
 <td>
 
+# Stephan Vanwoezik
 **Stephan van Woezik**
 
 - 🧠 Tech patent holder  
