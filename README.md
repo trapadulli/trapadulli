@@ -25,15 +25,6 @@
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td width="160" align="center">
-
-<img src="https://github.com/trapadulli/trapadulli/blob/main/GitHubAvatar.png" width="140"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
