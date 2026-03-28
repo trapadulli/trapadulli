@@ -38,13 +38,13 @@ My passions are in music education, algorithmic trading, and developer tooling.
 
 ## 🧠 Focus Areas
 
-- Distributed systems & backend architectures  
+- Distributed systems & backend architectures
 - Cloud-native applications (Azure)
-- Financial modeling & trading systems   
-- Audio Deep Learning (solfège syllable inference)
-- AI-agent-based narrative analysis tooling
 - Full-stack product development
 - Event-driven architectures 
+- Financial modeling & trading systems
+- AI-agent-based narrative analysis tooling  
+- Audio Deep Learning (solfège syllable inference)
 
 ---
 
