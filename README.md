@@ -95,6 +95,4 @@ A Chrome extension that converts confusing product stories into meaningful accep
 
 ---
 
-> Build things that work. Then make them better.
-
 
