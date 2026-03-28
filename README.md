@@ -53,7 +53,7 @@ My passions are in music education, algorithmic trading, and developer tooling.
 C# • .NET • CQRS • SQL Server   
 
 **Cloud & DevOps:**  
-Azure • CI/CD • Azure DevOps • Cloud Architecture  
+Azure • CI/CD • Azure DevOps 
 
 **Frontend / Mobile:**  
 React • React Native • TypeScript  
