@@ -93,6 +93,5 @@ A Chrome extension that converts confusing product stories into meaningful accep
 - LinkedIn: https://linkedin.com/in/stephanvanwoezik
 - GitHub: https://github.com/trapadulli
 
----
 
 
