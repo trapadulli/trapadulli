@@ -59,7 +59,7 @@ Azure • CI/CD • Azure DevOps
 React • React Native • TypeScript  
 
 **AI / Data:**  
-Python • PyTorch • ONNX • Audio Processing  
+Jupyter Notebooks • PyTorch • ONNX • Audio Processing  
 
 ---
 
