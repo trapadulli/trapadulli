@@ -42,7 +42,7 @@ My passions are in music education, algorithmic trading, and developer tooling.
 - Cloud-native applications (Azure)
 - Financial modeling & trading systems   
 - Audio Deep Learning (solfège syllable inference)
-- AI-powered agent-based narrative analysis tooling
+- AI-agent-based narrative analysis tooling
 - Full-stack product development
 - Event-driven architectures 
 
