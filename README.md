@@ -30,7 +30,7 @@
 
 I develop full-stack applications in cloud infrastructures. 
 
-My work spans backend services, APIs, data modeling, and frontend systems, with deep experience in .NET, Azure, and SQL Server. I’ve engineered and operated platforms across financial systems, analytics and forecasting, ERP software, and systems for trades.
+My work spans frontend systems, backend services, APIs, and data modeling, with deep experience in .NET, Azure, and SQL Server. I’ve engineered and operated platforms across financial systems, analytics and forecasting, ERP software, and systems for trades.
 
 My passions are in music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
 
