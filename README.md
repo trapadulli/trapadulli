@@ -32,7 +32,7 @@ I develop full-stack applications in cloud infrastructures.
 
 My work spans frontend systems, backend services, APIs, and data modeling, with deep experience in .NET, Azure, and SQL Server. I’ve engineered and operated platforms across financial services, analytics and forecasting, ERP software, and systems for trades.
 
-My passions are in music education, algorithmic trading, and developer tooling, with a focus on AI deployments, audio deep learning technology, and event-driven architectures.
+My passions are in music education, algorithmic trading, and developer tooling.
 
 ---
 
@@ -41,8 +41,9 @@ My passions are in music education, algorithmic trading, and developer tooling, 
 - Distributed systems & backend architectures  
 - Cloud-native applications (Azure)
 - Financial modeling & trading systems   
-- Audio + AI (pitch detection, solfège, inference systems)  
-- Full-stack product development  
+- Audio Deep Learning + AI (pitch detection, solfège, inference systems)  
+- Full-stack product development
+- Event-driven architectures 
 
 ---
 
