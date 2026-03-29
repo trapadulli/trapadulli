@@ -85,13 +85,3 @@ Quantitative algorithmic trading platform — equity data ingest pipeline and ba
 ### 📖 [StoryLint](https://github.com/StoryLint)
 A Chrome extension that converts confusing product stories into meaningful acceptance criteria.  
 `LLM integrations · JavaScript · Python · FastAPI · Docker`
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/stephanvanwoezik
-- GitHub: https://github.com/trapadulli
-
-
-
