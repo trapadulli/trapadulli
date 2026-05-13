@@ -11,7 +11,7 @@
 
 - 🧠 Tech patent holder  
 - 🎓 NSU BSCS (cum laude)  
-- 🧩 11+ years building production systems
+- 🧩 12+ years building production systems
 
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
