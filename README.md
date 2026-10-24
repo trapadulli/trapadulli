@@ -51,7 +51,7 @@ My passions include music education, algorithmic trading, and developer tooling.
 ## ⚙️ Tech Stack
 
 **Backends:**  
-TypeScript • C# • .NET • CQRS • SQL Server  
+TypeScript • C# • .NET • CQRS • SQL Server  • MongoDB
 
 **Frontends / Mobile:**  
 Angular • React • React Native
