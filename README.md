@@ -32,7 +32,7 @@ I develop full-stack applications in cloud infrastructures.
 
 My work spans frontend systems, backend services, APIs, and data modeling, with deep experience in .NET, Azure, and SQL. I’ve engineered and operated platforms across financial services, analytics and forecasting, ERP software, and systems for trades.
 
-My passions are in music education, algorithmic trading, and developer tooling.
+My passions include music education, algorithmic trading, and developer tooling.
 
 ---
 
@@ -50,14 +50,14 @@ My passions are in music education, algorithmic trading, and developer tooling.
 
 ## ⚙️ Tech Stack
 
-**Backend:**  
-C# • .NET • CQRS • SQL Server   
+**Backends:**  
+TypeScript • C# • .NET • CQRS • SQL Server  
 
-**Frontend / Mobile:**  
-React • React Native • TypeScript  
+**Frontends / Mobile:**  
+Angular • React • React Native
 
 **Cloud & DevOps:**  
-Azure • CI/CD • Azure DevOps 
+Azure • Github
 
 **AI / Data:**  
 Jupyter Notebooks • PyTorch • ONNX • Audio Processing  
